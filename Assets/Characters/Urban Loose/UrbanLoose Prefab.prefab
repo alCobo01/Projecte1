@@ -50,8 +50,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1086ba71136107545a3e2ab66642944c, type: 3}
       propertyPath: m_Name
-      value: CharacterConjunto1
+      value: UrbanLoose Prefab
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 1086ba71136107545a3e2ab66642944c, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: dab8dff43b1c09340ab70529ae1c7133, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
